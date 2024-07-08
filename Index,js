@@ -1,0 +1,3 @@
+function changeFontSize() {
+ document.getElementById('myname').style.fontSize = '100px'; 
+}
